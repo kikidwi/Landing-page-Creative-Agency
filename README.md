@@ -19,15 +19,3 @@ This project is a responsive landing page for a Creative Agency, built using HTM
 - **HTML**: Structure of the landing page.
 - **CSS**: Styling of the landing page, including layout, typography, and responsive design.
 
-## How It Works
-
-1. The project features a structured layout with a hero section containing a headline, brief description, and call-to-action button.
-2. The "Who We Are" section provides a concise overview of the agency’s background and team.
-3. The "Services" section highlights the core services offered by the agency, making it clear to potential clients what they specialize in.
-4. The "Contact" section offers contact details and options for users to get in touch.
-
-## Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/creative-agency-landing-page.git
